@@ -1,5 +1,5 @@
 FROM ubuntu:xenial-20180112.1
-MAINTAINER sameer@damagehead.com
+MAINTAINER sh7916@gmail.com
 
 RUN echo 'APT::Install-Recommends 0;' >> /etc/apt/apt.conf.d/01norecommends \
  && echo 'APT::Install-Suggests 0;' >> /etc/apt/apt.conf.d/01norecommends \

@@ -1,4 +1,4 @@
-[![Circle CI](https://circleci.com/gh/sameersbn/docker-ubuntu.svg?style=svg)](https://circleci.com/gh/sameersbn/docker-ubuntu) [![Docker Repository on Quay.io](https://quay.io/repository/sameersbn/ubuntu/status "Docker Repository on Quay.io")](https://quay.io/repository/sameersbn/ubuntu)
+[![Circle CI](https://circleci.com/gh/hrtshu/docker-ubuntu.svg?style=svg)](https://circleci.com/gh/hrtshu/docker-ubuntu) [![Docker Hub Repository](https://img.shields.io/docker/automated/hrtshu/ubuntu.svg)](https://hub.docker.com/r/hrtshu/ubuntu/)
 
 # About
 
